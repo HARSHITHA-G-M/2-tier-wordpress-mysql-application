@@ -45,8 +45,8 @@ wordpress-mysql/
 > Make sure you have Docker + Docker Compose installed on your system.
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/your-username/wordpress-mysql.git
-cd wordpress-mysql
+git clone 
+cd 2-tier-wordpress-mysql-application
 
 2️⃣ Create a .env File
 # .env
