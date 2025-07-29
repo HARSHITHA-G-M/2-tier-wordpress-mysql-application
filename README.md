@@ -63,8 +63,6 @@ WORDPRESS_DB_NAME=wordpress
 3️⃣ Start the Services
 docker-compose up -d
 ✅ Visit: http://localhost:8080
-
-docker-compose down
 docker-compose down -v
 
 📜 License
